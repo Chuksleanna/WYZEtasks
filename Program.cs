@@ -261,7 +261,7 @@ static void FunExtras (string name)
        
     Dictionary<string, string> subjects = new Dictionary<string, string>();
     subjects.Add("Maths", "Miss Deborah");
-    subjects.Add("English", "Mrs Jacob");
+    subjects.Add("English", "Mrs Aanu Jacob");
     subjects.Add("Information Technology", "Mr daniel");
     Console.WriteLine();
 
